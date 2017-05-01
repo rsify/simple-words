@@ -1,4 +1,4 @@
-# simple-words
+# simple-words [![npm](https://img.shields.io/npm/v/simple-words.svg)](https://www.npmjs.com/package/simple-words)
 
 npm module containing 700+ words longer of length 3-7.
 
