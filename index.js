@@ -1,6 +1,7 @@
 const fs = require('fs')
+const path = require('path')
 
-const contents = fs.readFileSync('words.txt').toString()
+const contents = fs.readFileSync(path.resolve(__dirname, 'words.txt')).toString()
 
 const wordList = contents.split(require('os').EOL)
 wordList.pop() // remove trailing empty new line
