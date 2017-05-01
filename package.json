@@ -1,0 +1,26 @@
+{
+  "name": "simple-words",
+  "version": "1.0.0",
+  "description": "has simple words of length 3-7",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikersify/simple-words.git"
+  },
+  "keywords": [
+    "word",
+    "list",
+    "simple",
+    "words",
+    "dictionary",
+    "english"
+  ],
+  "author": "nikersify <nikersify@nikerino.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
