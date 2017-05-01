@@ -2,6 +2,8 @@
 
 npm module containing 700+ words longer of length 3-7.
 
+[![travis](https://travis-ci.org/Nikersify/simple-words.svg?branch=master)](https://travis-ci.org/Nikersify/simple-words)
+
 # usage
 
 ```javascript
@@ -13,7 +15,7 @@ words.one()
 words.pick(5)
 // [ "cold", "toe", "key", "secret", "some" ]
 
-words.al
+words.all
 // [ "able", "about", ... , "you", "young" ]
 ```
 
