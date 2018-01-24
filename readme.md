@@ -2,7 +2,7 @@
 
 npm module containing 700+ words longer of length 3-7.
 
-[![travis](https://travis-ci.org/Nikersify/simple-words.svg?branch=master)](https://travis-ci.org/Nikersify/simple-words)
+[![travis](https://travis-ci.org/nikersify/simple-words.svg?branch=master)](https://travis-ci.org/nikersify/simple-words)
 
 # usage
 
